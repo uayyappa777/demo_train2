@@ -9,8 +9,10 @@ public class HelloWorld{
                 int d= b-a;
                 int e=a*b;
                 int f=b/a:
+                 int g=a^b;       
                 System.out.println("substaction"+d);
                 System.out.println("Multiplication"+e);
-                System.out.println("Division",+f);
+                System.out.println("Division"+f);
+                System.out.println("power"+g);
         }
 }
