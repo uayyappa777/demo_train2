@@ -8,7 +8,9 @@ public class HelloWorld{
                 System.out.println("additoin"+c);
                 int d= b-a;
                 int e=a*b;
+                int f=b/a:
                 System.out.println("substaction"+d);
                 System.out.println("Multiplication"+e);
+                System.out.println("Division",+f);
         }
 }
