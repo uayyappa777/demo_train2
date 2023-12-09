@@ -6,5 +6,7 @@ public class HelloWorld{
                 int b=10;
                 int c=a+b;
                 System.out.println("additoin"+c);
-                }
+                int d= b-a;
+                System.out.println("substaction"+d);
+        }
 }
